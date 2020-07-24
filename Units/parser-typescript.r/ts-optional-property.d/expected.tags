@@ -1,0 +1,3 @@
+Foo	input.ts	/^class Foo {$/;"	c
+bar	input.ts	/^  bar: string;$/;"	p	class:Foo
+baz	input.ts	/^  baz: string;$/;"	p	class:Foo
